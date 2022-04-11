@@ -17,5 +17,5 @@
 ```console
 docker-compose up -d
 ```
-### Now you can access your localhost with the port 8082 for to use phpmyadmin
+### Now you can access your localhost with the port 8080 for to use phpmyadmin
 
